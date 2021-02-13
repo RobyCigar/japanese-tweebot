@@ -1,14 +1,21 @@
 {
-  "name": "japanese tweebot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "bot",
+  "version": "2.0.0",
+  "description": "Playin with api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobyCigar/japanese-tweebot.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobyCigar/japanese-tweebot/issues"
+  },
+  "homepage": "https://github.com/RobyCigar/japanese-tweebot#readme",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "dotenv": "^8.2.0",
